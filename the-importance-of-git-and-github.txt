@@ -1,0 +1,5 @@
+Before I start what I think the impotance of these two I would like to say that I don't fully understand the concept of git.
+I don't how to use it in my laptop, but I'll tell by the way how our instructor teach it, and what I  think the imporatance of these two.
+At first thought, I really thought that GitHub and Git is a same thing, but Git is in your local computer or another devices, while GitHub is in online, it'' both VCS.
+The importance are in Git you can save your code without consuming a lot of spaces, if you change your code offline, same goes with the GitHub, you can share your code to others, they can contribute to you, you also can contribute, you ca learn.
+You can put your code from Git to GitHub. You can contribute your code to other people, they can also contirbute. 
